@@ -17,3 +17,8 @@ My name is Kalashnikov Maxim, I am 23 years old, I am a novice JavaScript develo
 * Understanding in ES6;
 * HTML/CSS Basics
 * Understanding basic code-writing algorithms and principles of object-oriented programming.
+
+I am in a constant stream of learning new information to improve my skills, I am easily taught, motivated, self-organized, I am in the process of learning English.
+Since I am a beginner, I need a little support in developing my skills in teamwork and working with real practical tasks.
+
+---
